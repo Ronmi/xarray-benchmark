@@ -1,0 +1,14 @@
+{
+    "name": "ronmi/xarray-benchmark",
+    "authors": [
+        {
+            "name": "Ronmi Ren",
+            "email": "ronmi.ren@gmail.com"
+        }
+    ],
+    "require": {
+        "fruit/pathkit": "@dev",
+        "fruit/benchkit": "@dev",
+        "phpunit/phpunit": "^5.0"
+    }
+}
